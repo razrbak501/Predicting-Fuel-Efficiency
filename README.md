@@ -21,16 +21,16 @@
 
 Using Python to predict fuel mileage.  Application uses the libraries below to develop, train, and evaluate a linear regression model.
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import cross_val_score
-from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
-from sklearn.linear_model import Ridge
-from sklearn.tree import DecisionTreeRegressor
-import seaborn as sns
+- import pandas as pd
+- import numpy as np
+- import matplotlib.pyplot as plt
+- from sklearn.model_selection import train_test_split
+- from sklearn.linear_model import LinearRegression
+- from sklearn.model_selection import cross_val_score
+- from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
+- from sklearn.linear_model import Ridge
+- from sklearn.tree import DecisionTreeRegressor
+- import seaborn as sns
 
 #### Technologies
 
